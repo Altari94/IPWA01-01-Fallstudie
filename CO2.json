@@ -1,0 +1,175 @@
+[
+    
+
+    {
+        "Unternehmen": "-",
+        "Land": "China",
+        "Co2": 61256000
+        
+    },
+
+    {
+        "Unternehmen": "Tencent",
+        "Land": "China",
+        "Co2": 598430
+        
+    },
+
+    {
+        "Unternehmen": "Alibaba.com",
+        "Land": "China",
+        "Co2": 459250
+        
+    },
+
+    {
+        "Unternehmen": "Moutai",
+        "Land": "China",
+        "Co2": 65895
+        
+    },
+
+    {
+        "Unternehmen": "-",
+        "Land": "USA",
+        "Co2": 52750000
+        
+    },
+
+    {
+        "Unternehmen": "Apple",
+        "Land": "USA",
+        "Co2": 327450
+        
+    },
+
+    {
+        "Unternehmen": "Microsoft Corporation",
+        "Land": "USA",
+        "Co2": 428458
+        
+    },
+
+    {
+        "Unternehmen": "ALPHABET",
+        "Land": "USA",
+        "Co2": 126750
+        
+    },
+
+    {
+        "Unternehmen": "-",
+        "Land": "Indien",
+        "Co2": 46220000
+        
+    },
+
+    {
+        "Unternehmen": "Reliance Industries",
+        "Land": "Indien",
+        "Co2": 262209
+        
+    },
+
+    {
+        "Unternehmen": "Tata Consultancy Services",
+        "Land": "Indien",
+        "Co2": 584592
+        
+    },
+
+    {
+        "Unternehmen": "HDFC Bank",
+        "Land": "Indien",
+        "Co2": 964592
+        
+    },
+
+
+    {
+        "Unternehmen": "-",
+        "Land": "Russia",
+        "Co2": 37480000
+        
+    },
+
+    {
+        "Unternehmen": "Gazprom",
+        "Land": "Russia",
+        "Co2": 9998888
+        
+    },
+
+    {
+        "Unternehmen": "Lukoil",
+        "Land": "Russia",
+        "Co2": 998889
+        
+    },
+
+    {
+        "Unternehmen": "Rosneft",
+        "Land": "Russia",
+        "Co2": 899999
+        
+    },
+
+    {
+        "Unternehmen": "-",
+        "Land": "Japan",
+        "Co2": 21990000
+        
+    },
+
+    {
+        "Unternehmen": "Toyota Motor",
+        "Land": "Japan",
+        "Co2": 151231
+        
+    },
+
+    {
+        "Unternehmen": "Softbank",
+        "Land": "Japan",
+        "Co2": 123631
+        
+    },
+
+    {
+        "Unternehmen": "Sony",
+        "Land": "Japan",
+        "Co2": 523631
+        
+    },
+
+    {
+        "Unternehmen": "-",
+        "Land": "Germany",
+        "Co2": 15300000
+        
+    },
+
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Germany",
+        "Co2": 125300
+        
+    },
+
+    {
+        "Unternehmen": "Volkswagen Group",
+        "Land": "Germany",
+        "Co2": 2353000
+        
+    },
+
+    {
+        "Unternehmen": "Siemens",
+        "Land": "Germany",
+        "Co2": 1253000
+        
+    }
+
+    
+    
+]
